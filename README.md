@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This project showcases who I am, what I’ve built, and how to connect with me — all in one place.
 
-🔗 **Live Demo:** [Click to View](https://sachin1kumarbit.github.io/portfolio/)
+🔗 **Live Demo:** [Click to View](https://sachin1kumarbit.github.io/Porfolio/)
 
 ---
 
