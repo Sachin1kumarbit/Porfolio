@@ -29,7 +29,7 @@ This project showcases who I am, what I’ve built, and how to connect with me �
 ## 📬 Contact
 
 - **GitHub:** [@sachin1kumarbit](https://github.com/sachin1kumarbit)
-- **Email:** your.email@example.com (change this)
+- **Email:** kumarsachinr726@gmail.com
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
