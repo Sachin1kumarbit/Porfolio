@@ -33,12 +33,3 @@ This project showcases who I am, what I’ve built, and how to connect with me �
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
-
-## 🛠 Setup Instructions (Optional)
-
-To run locally:
-
-```bash
-git clone https://github.com/sachin1kumarbit/portfolio.git
-cd portfolio
-# Open index.html in your browser
