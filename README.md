@@ -11,7 +11,7 @@ This project showcases who I am, what I’ve built, and how to connect with me �
 
 | Project Name       | Description                                      | Live Demo |
 |--------------------|--------------------------------------------------|-----------|
-| 🧾 Expense Tracker  | A modern app to manage and visualize expenses.  | [View](https://sachin1kumarbit.github.io/portfolio/expense-tracker/expensetracker.html) |
+| 🧾 Expense Tracker  | A modern app to manage and visualize expenses.  | [View](https://sachin1kumarbit.github.io/Expense-Tacker/) |
 | 🎮 Game Pack        | Collection of mini JavaScript browser games.    | [View](https://sachin1kumarbit.github.io/portfolio/gamepack/) |
 | 🧑‍🎓 Student Portal  | A student-friendly interface for managing courses, assignments, and announcements. | [View](https://sachin1kumarbit.github.io/portfolio/student-portal/) |
 
